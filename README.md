@@ -31,4 +31,4 @@ Mình là sinh viên chuyên ngành **Kỹ thuật Máy tính**. Mình đam mê 
 ### 📫 Liên hệ
 - 📧 duynguyen1312004@gmail.com
 - 📍 TP. Hồ Chí Minh, Việt Nam
-- 💼 [[LinkedIn của bạn]](https://www.linkedin.com/in/duy-nguy%E1%BB%85n-8404443b2/)
+- 💼 [(https://www.linkedin.com/in/duy-nguy%E1%BB%85n-8404443b2/)](https://www.linkedin.com/in/duy-nguy%E1%BB%85n-8404443b2/)

@@ -48,6 +48,6 @@ Hệ thống nhúng & Trí tuệ nhân tạo tại biên (TinyML) là niềm đa
 
 ### 📫 Liên hệ với mình (Connect with me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duy-nguy%E1%BB%85n-8404443b2/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenduyk2002@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nguyenduyk2002@gmail.com)
 
 📍 TP. Hồ Chí Minh, Việt Nam

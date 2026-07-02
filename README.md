@@ -31,20 +31,19 @@ Hệ thống nhúng & Trí tuệ nhân tạo tại biên (TinyML) là niềm đa
 ### 📊 Thống kê hoạt động (GitHub Stats)
 
 <div align="center">
-  <!-- Bảng thống kê chính -->
-  <img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&count_private=true" alt="Duy's GitHub Stats" />
+  <!-- Bảng thống kê chính - Dùng server Mirror để tránh lỗi -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&count_private=true" alt="Duy's GitHub Stats" />
   
   <br/>
 
-  <!-- Bảng ngôn ngữ hay dùng -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Bảng ngôn ngữ - Dùng server Mirror -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
   <br/>
 
-  <!-- Thêm bảng "Chuỗi ngày Commit" (Streak) cực xịn để khoe độ chăm chỉ -->
+  <!-- Bảng Streak này đã chạy tốt nên giữ nguyên -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duynguyen1312004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 ### 📫 Liên hệ với mình (Connect with me)

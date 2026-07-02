@@ -31,9 +31,18 @@ Hệ thống nhúng & Trí tuệ nhân tạo tại biên (TinyML) là niềm đa
 ### 📊 Thống kê hoạt động (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=dark&hide_border=true" alt="Duy's GitHub Stats" />
+  <!-- Bảng thống kê chính -->
+  <img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&count_private=true" alt="Duy's GitHub Stats" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+  <!-- Bảng ngôn ngữ hay dùng -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  <br/>
+
+  <!-- Thêm bảng "Chuỗi ngày Commit" (Streak) cực xịn để khoe độ chăm chỉ -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duynguyen1312004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

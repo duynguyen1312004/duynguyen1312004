@@ -2,22 +2,22 @@
 
 🎓 **Final-year Computer Engineering student** at the **University of Science, VNU-HCM**.
 
-I'm passionate about building reliable software and intelligent connected systems, with a focus on **Backend Development, Embedded Systems, IoT, and Edge AI**.
+I'm passionate about building **reliable software and intelligent connected systems**, with a focus on **Backend Development, Embedded Systems, IoT, and Edge AI**.
 
-My current direction is to grow as a **Backend Developer**, while leveraging my background in embedded systems and IoT to build complete end-to-end solutions.
+Currently, I'm focusing on growing as a **Backend Developer** while leveraging my background in embedded systems and IoT to build complete end-to-end solutions.
 
 ---
 
 ## 🎯 Career Focus
 
-I'm currently looking for opportunities as a:
+I'm currently seeking opportunities as a:
 
 - 💻 **Backend Developer**
 - ⚙️ **Embedded Software Engineer**
 
 I'm particularly interested in building systems involving:
 
-**REST APIs · Authentication & Authorization · Databases · Real-time Applications · IoT · Edge AI**
+**REST APIs · Authentication & Authorization · Databases · Real-Time Applications · IoT · Edge AI**
 
 ---
 
@@ -27,9 +27,7 @@ I'm particularly interested in building systems involving:
 
 🔗 **[GitHub Repository](https://github.com/duynguyen1312004/task-management-api)**
 
-A production-oriented RESTful API built to strengthen my backend engineering fundamentals using **Node.js, Express.js, MongoDB, and JWT**.
-
-The project focuses on designing a clean backend architecture and implementing secure resource access.
+A RESTful task management API built with **Node.js, Express.js, MongoDB, and JWT Authentication**, focusing on backend architecture, security, validation, and resource ownership.
 
 **Key Features**
 
@@ -49,7 +47,7 @@ The project focuses on designing a clean backend architecture and implementing s
   - Middleware
   - Model
 
-**Main Focus:** Backend architecture, security, validation, database interaction, and API design.
+**Focus:** Backend architecture, API security, validation, database interaction, and RESTful API design.
 
 ---
 
@@ -57,19 +55,17 @@ The project focuses on designing a clean backend architecture and implementing s
 
 🔗 **[GitHub Repository](https://github.com/duynguyen1312004/realtime-chat-app)**
 
-A real-time chat application built with **Node.js, Express.js, and Socket.IO**.
-
-The project explores real-time communication and separation of responsibilities through a layered architecture.
+A real-time chat application built with **Node.js, Express.js, and Socket.IO**, focusing on real-time communication and clean backend architecture.
 
 **Key Features**
 
-- 💬 Real-time messaging
-- 🟢 Online user tracking
-- ⌨️ Typing indicators
-- 🔌 Socket connection management
-- 🏗️ Controller / Service / Store architecture
+- 💬 Real-Time Messaging
+- 🟢 Online User Tracking
+- ⌨️ Typing Indicators
+- 🔌 Socket Connection Management
+- 🏗️ Controller / Service / Store Architecture
 
-**Main Focus:** Real-time communication, WebSocket-based applications, and backend architecture.
+**Focus:** Real-time communication, Socket.IO, connection management, and backend architecture.
 
 ---
 
@@ -79,20 +75,20 @@ The project explores real-time communication and separation of responsibilities 
 
 An AI-powered real-time ECG monitoring system running **TinyML directly on an ESP32**.
 
-The system combines **embedded software, signal processing, IoT, MQTT, and Edge AI** to perform real-time ECG analysis and arrhythmia classification on an edge device.
+The system combines **embedded software, signal processing, FreeRTOS, IoT, MQTT, and Edge AI** to perform real-time ECG analysis and arrhythmia classification on a resource-constrained device.
 
 **Technologies**
 
 - ESP32
+- FreeRTOS
 - TinyML
 - 1D CNN
 - ECG Signal Processing
-- FreeRTOS
 - MQTT
 - IoT
 - Edge AI
 
-**Main Focus:** Real-time embedded processing, resource-constrained AI inference, and end-to-end IoT systems.
+**Focus:** Real-time embedded processing, resource-constrained AI inference, signal processing, and end-to-end IoT systems.
 
 ---
 
@@ -153,7 +149,7 @@ The application combines mobile development, cloud services, and AI-powered feat
 
 ## 📚 Currently Learning
 
-I'm currently strengthening my backend engineering fundamentals through hands-on projects.
+I'm currently strengthening my backend engineering skills through hands-on projects.
 
 ### Backend Development
 
@@ -162,7 +158,7 @@ I'm currently strengthening my backend engineering fundamentals through hands-on
 - Authentication & Authorization
 - MongoDB & Mongoose
 - Request Validation
-- Error Handling
+- Centralized Error Handling
 - API Security
 - Socket.IO & Real-Time Applications
 
@@ -172,7 +168,8 @@ I'm currently strengthening my backend engineering fundamentals through hands-on
 - Database Design
 - System Design Fundamentals
 - Docker & Containerization
-- Clean Code & Maintainable Architecture
+- Clean Code
+- Maintainable Architecture
 
 ---
 
@@ -180,9 +177,9 @@ I'm currently strengthening my backend engineering fundamentals through hands-on
 
 My background is rooted in **Computer Engineering, Embedded Systems, and IoT**.
 
-I'm now expanding that foundation toward **Backend Engineering**, focusing on how reliable software systems are designed, secured, and scaled.
+I'm now expanding that foundation toward **Backend Engineering**, with a focus on designing reliable APIs, secure backend systems, and maintainable software architectures.
 
-My goal is to eventually combine both areas:
+In the long term, I want to combine my backend and embedded experience to build complete connected systems:
 
 **Embedded Device → Edge AI → IoT → Backend → Real-Time Application**
 
@@ -192,11 +189,11 @@ My goal is to eventually combine both areas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Duy's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&hide_border=true" alt="Duy's GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 

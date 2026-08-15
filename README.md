@@ -192,15 +192,11 @@ My goal is to eventually combine both areas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&hide_border=true" alt="Duy's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Duy's GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=duynguyen1312004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 

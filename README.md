@@ -1,88 +1,110 @@
-# 👋 Xin chào, mình là Duy Nguyễn!
+# 👋 Hi, I'm Duy Nguyễn
 
 🎓 **Final-year Computer Engineering student** at the **University of Science, VNU-HCM**.
 
-I'm passionate about building intelligent and connected systems across **Backend Development**, **Embedded Systems**, **IoT**, and **Artificial Intelligence**. I enjoy designing complete solutions from embedded devices and edge AI to backend services and real-time applications.
+I'm passionate about building reliable software and intelligent connected systems, with a focus on **Backend Development, Embedded Systems, IoT, and Edge AI**.
+
+My current direction is to grow as a **Backend Developer**, while leveraging my background in embedded systems and IoT to build complete end-to-end solutions.
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Focus
 
-I'm seeking opportunities as a **Backend Developer** or **Embedded Software Engineer**, where I can apply software engineering principles to build reliable backend systems and intelligent IoT solutions.
+I'm currently looking for opportunities as a:
 
----
+- 💻 **Backend Developer**
+- ⚙️ **Embedded Software Engineer**
 
-## 📚 Currently Learning
+I'm particularly interested in building systems involving:
 
-- Backend Development with **Node.js & Express.js**
-- **RESTful API** Design
-- **Socket.IO** & Real-time Applications
-- **MongoDB & Mongoose**
-- **Docker**
-- **System Design Fundamentals**
+**REST APIs · Authentication & Authorization · Databases · Real-time Applications · IoT · Edge AI**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📋 [Task Management API](https://github.com/duynguyen1312004/task-management-api)
+### 📋 Task Management API
 
-A RESTful task management backend built with **Node.js, Express.js, MongoDB, and JWT Authentication**.
+🔗 **[GitHub Repository](https://github.com/duynguyen1312004/task-management-api)**
 
-The project focuses on backend architecture, authentication, authorization, validation, centralized error handling, and secure resource ownership.
+A production-oriented RESTful API built to strengthen my backend engineering fundamentals using **Node.js, Express.js, MongoDB, and JWT**.
 
-**Features:**
+The project focuses on designing a clean backend architecture and implementing secure resource access.
 
-- JWT authentication
-- Role-based authorization
-- Ownership-based access control
-- CRUD operations
-- Joi request validation
-- Centralized error handling
-- Filtering, searching, sorting, and pagination
-- MongoDB & Mongoose
-- Layered architecture with Controller, Service, Middleware, and Model layers
+**Key Features**
 
----
+- 🔐 JWT Authentication
+- 🛡️ Role-Based Authorization
+- 👤 Ownership-Based Access Control
+- 📝 CRUD Operations
+- ✅ Joi Request Validation
+- 🚨 Centralized Error Handling
+- 🔎 Filtering & Searching
+- ↕️ Sorting
+- 📄 Pagination
+- 🗄️ MongoDB & Mongoose
+- 🏗️ Layered Architecture
+  - Controller
+  - Service
+  - Middleware
+  - Model
 
-### 💬 [Real-Time Chat Application](https://github.com/duynguyen1312004/realtime-chat-app)
-
-A real-time chat application built with **Node.js, Express.js, and Socket.IO**, following a layered architecture with **Controller, Service, and Store** layers.
-
-**Features:**
-
-- Real-time messaging
-- Online user tracking
-- Typing indicators
-- Socket connection management
-- Layered project architecture
+**Main Focus:** Backend architecture, security, validation, database interaction, and API design.
 
 ---
 
-### 🫀 [TinyML ECG Monitor](https://github.com/duynguyen1312004/TinyML-ECG-Monitor-Project)
+### 💬 Real-Time Chat Application
+
+🔗 **[GitHub Repository](https://github.com/duynguyen1312004/realtime-chat-app)**
+
+A real-time chat application built with **Node.js, Express.js, and Socket.IO**.
+
+The project explores real-time communication and separation of responsibilities through a layered architecture.
+
+**Key Features**
+
+- 💬 Real-time messaging
+- 🟢 Online user tracking
+- ⌨️ Typing indicators
+- 🔌 Socket connection management
+- 🏗️ Controller / Service / Store architecture
+
+**Main Focus:** Real-time communication, WebSocket-based applications, and backend architecture.
+
+---
+
+### 🫀 TinyML ECG Monitor
+
+🔗 **[GitHub Repository](https://github.com/duynguyen1312004/TinyML-ECG-Monitor-Project)**
 
 An AI-powered real-time ECG monitoring system running **TinyML directly on an ESP32**.
 
-The project combines **Embedded Systems, IoT, MQTT, Signal Processing, and Edge AI** to perform real-time arrhythmia classification.
+The system combines **embedded software, signal processing, IoT, MQTT, and Edge AI** to perform real-time ECG analysis and arrhythmia classification on an edge device.
 
-**Technologies:**
+**Technologies**
 
 - ESP32
 - TinyML
 - 1D CNN
 - ECG Signal Processing
+- FreeRTOS
 - MQTT
 - IoT
+- Edge AI
+
+**Main Focus:** Real-time embedded processing, resource-constrained AI inference, and end-to-end IoT systems.
 
 ---
 
-### 🎬 [CineGo - Movie Ticket App](https://github.com/duynguyen1312004/CineGo)
+### 🎬 CineGo — Movie Ticket Application
+
+🔗 **[GitHub Repository](https://github.com/duynguyen1312004/CineGo)**
 
 An Android movie ticket booking application integrated with **Firebase** and **Google Gemini AI**.
 
-The application provides movie-related features, AI-powered recommendations, and an intelligent virtual assistant.
+The application combines mobile development, cloud services, and AI-powered features to provide movie recommendations and an intelligent virtual assistant.
 
-**Technologies:**
+**Technologies**
 
 - Android
 - Java
@@ -100,44 +122,75 @@ The application provides movie-related features, AI-powered recommendations, and
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### 💻 Programming Languages & Mobile
+### 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📟 Embedded & IoT
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0081CB?style=for-the-badge&logo=freertos&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![TinyML](https://img.shields.io/badge/TinyML-AI-blue?style=for-the-badge)
+![TinyML](https://img.shields.io/badge/TinyML-Edge_AI-blue?style=for-the-badge)
+
+### 📱 Mobile & Cloud
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧰 Tools & Engineering
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-<div align="center">
+I'm currently strengthening my backend engineering fundamentals through hands-on projects.
 
-<img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&hide_border=true" alt="Duy's GitHub Stats" />
+### Backend Development
 
-<br/>
+- Node.js & Express.js
+- RESTful API Design
+- Authentication & Authorization
+- MongoDB & Mongoose
+- Request Validation
+- Error Handling
+- API Security
+- Socket.IO & Real-Time Applications
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+### Software Engineering
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=duynguyen1312004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+- Layered Architecture
+- Database Design
+- System Design Fundamentals
+- Docker & Containerization
+- Clean Code & Maintainable Architecture
 
 ---
 
-## 📫 Connect with Me
+## 📈 Current Direction
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duy-nguy%E1%BB%85n-8404443b2/)
+My background is rooted in **Computer Engineering, Embedded Systems, and IoT**.
+
+I'm now expanding that foundation toward **Backend Engineering**, focusing on how reliable software systems are designed, secured, and scaled.
+
+My goal is to eventually combine both areas:
+
+**Embedded Device → Edge AI → IoT → Backend → Real-Time Application**
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duy-nguy%E1%BB%85n-8404443b2/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenduyk2002@gmail.com)
 
@@ -145,6 +198,4 @@ The application provides movie-related features, AI-powered recommendations, and
 
 ---
 
-### 💡 What I'm Working Toward
-
-I'm currently focusing on strengthening my **backend engineering fundamentals**, especially **Node.js, REST APIs, authentication, authorization, database design, and system architecture**, while continuing to build on my background in **Embedded Systems and IoT**.
+> 💡 **Building backend systems today, while keeping the embedded world close.**

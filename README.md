@@ -188,6 +188,24 @@ My goal is to eventually combine both areas:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&hide_border=true" alt="Duy's GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=duynguyen1312004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duy-nguy%E1%BB%85n-8404443b2/)

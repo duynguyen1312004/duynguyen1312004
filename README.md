@@ -187,17 +187,20 @@ In the long term, I want to combine my backend and embedded experience to build 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://vercel.app" alt="Duy's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=duynguyen1312004&show_icons=true&theme=tokyonight&hide_border=true" alt="Duy's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynguyen1312004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+</p>
 
 ---
+
+<p align="center">
+  🔄 <i>auto updated with Duy</i>
+</p>
 
 ## 📫 Connect With Me
 
